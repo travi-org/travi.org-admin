@@ -127,7 +127,7 @@
     "@sentry/node": "6.2.0",
     "@travi/admin.travi.org-components": "1.0.26",
     "@travi/hapi-html-request-router": "3.0.1",
-    "@travi/hapi-react-router": "3.0.0",
+    "@travi/hapi-react-router": "6.2.3",
     "@travi/ioc": "1.1.1",
     "@travi/redux-fetch-middleware": "1.1.0",
     "blankie": "5.0.0",
