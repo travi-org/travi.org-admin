@@ -129,7 +129,7 @@
     "@travi/hapi-html-request-router": "3.0.1",
     "@travi/hapi-react-router": "3.0.0",
     "@travi/ioc": "1.1.1",
-    "@travi/redux-fetch-middleware": "1.1.0",
+    "@travi/redux-fetch-middleware": "3.0.0",
     "blankie": "5.0.0",
     "boom": "6.0.0",
     "css-modules-require-hook": "4.2.3",
