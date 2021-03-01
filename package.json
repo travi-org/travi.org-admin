@@ -115,7 +115,7 @@
     "webpack-visualizer-plugin": "0.1.11"
   },
   "dependencies": {
-    "@hapi/glue": "7.0.0",
+    "@hapi/glue": "8.0.0",
     "@hapi/good": "9.0.1",
     "@hapi/good-console": "9.0.1",
     "@hapi/good-squeeze": "6.0.0",
@@ -131,7 +131,7 @@
     "@travi/ioc": "1.1.1",
     "@travi/redux-fetch-middleware": "1.1.0",
     "blankie": "5.0.0",
-    "boom": "6.0.0",
+    "boom": "7.3.0",
     "css-modules-require-hook": "4.2.3",
     "good-sentry": "2.4.1",
     "hapi-mustache": "0.0.1",
